@@ -1,5 +1,0 @@
-Une doc assez courte, mais bien claire...
-Un essai de doctest dans la doc :-)
-
- >>> 1+1
- 3
