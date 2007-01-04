@@ -7,7 +7,9 @@ import deblib
 setup(name="DebLib",
       version=deblib.__version__,
       author = "Adelux",
-      author_email = "luc.stepniewski@adelux.fr",
+      author_email = "luc stepniewski at adelux.fr",
+      Maintainer = "Luc Stepniewski",
+      Maintainer-email = "luc stepniewski at adelux.fr",
       download_url = "http://code.google.com/p/deblib",
       license = "GPL",
       keywords = "debian deb python packages dpkg",
@@ -26,10 +28,10 @@ deblib has been created to facilitate the development of the dsacheck project.""
       },
 
       classifiers = [
-        'Development Status :: 3 - Alpha',
+        'Development Status :: 4 - Beta',
         'Environment :: Console',
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: GPL License',
+        'License :: OSI Approved :: GNU General Public License (GPL)',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Topic :: Software Development :: Libraries :: Python Modules'],
