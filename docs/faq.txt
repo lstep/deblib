@@ -1,0 +1,8 @@
+* What are the requirements to use this module?
+
+You just need a Debian, and Python.
+
+* Where is the documentation?
+
+It's not written yet, but the code is so simple, you can read the tests in
+test_all.py for examples.
