@@ -1,0 +1,10 @@
+2006-12-28 14:56  lior.gradstein
+
+	* trunk/deblib, trunk/deblib/__init__.py, trunk/deblib/data,
+	  trunk/deblib/data/mondata.txt, trunk/deblib/deblib.py,
+	  trunk/deblib/tests, trunk/deblib/tests/__init__.py,
+	  trunk/deblib/tests/status, trunk/deblib/tests/test_all.py,
+	  trunk/docs, trunk/docs/build, trunk/docs/html,
+	  trunk/docs/madoc.txt, trunk/docs/test_docs.py, trunk/setup.cfg,
+	  trunk/setup.py: Initial CORRECTed import
+
