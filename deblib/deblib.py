@@ -38,7 +38,6 @@ class DebPackages:
 
     def rebuild_package_list(self):
         """ """
-        print "Building package list..."
         fd = open(self.path_to_status,'r')
         data = fd.read()
         fd.close()
