@@ -20,7 +20,7 @@ import sys,os.path,re, operator
 
 def check_debian_version():
     """ Tests if we are on a debian, and if yes, returns the release name """
-    table = {'3.1': 'sarge', '3.0': 'woody', '2.2':'potato'}
+    table = {'4.0': 'etch', '3.1': 'sarge', '3.0': 'woody', '2.2':'potato'}
     try:
         value = file('/etc/debian_version').read().strip()
         return table.get(value, None)
